@@ -57,7 +57,6 @@ Number of columns
 Data types for each feature
 ### Summary Statistics
 Calculate central tendency measures (mean, median) and dispersion metrics (standard deviation, variance).
-Analyze the shape of the dataset’s distribution.
 ### Distribution of Numerical Features
 Visualize distributions using histograms or density plots to identify patterns, skewness, and potential outliers.
 ### Distribution of Categorical Features
