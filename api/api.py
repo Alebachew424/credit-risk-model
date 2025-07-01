@@ -24,7 +24,7 @@ logging.basicConfig(
 try:
   import gdown # type: ignore
 except ImportError:
-  print("Error: gdown package not found. Please ensure gdown is in your requirements.txt file")
+  print("Error: gdown package not found. Please ensure that gdown is found  in your requirements.txt file")
   gdown = None
 
 def download_file_from_google_drive(file_id, destination):
